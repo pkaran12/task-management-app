@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "c326",
+      "userName": "KARANP",
+      "email": "kp9594464364@gmail.com",
+      "password": "iuytrew"
+    },
+    {
+      "id": "b723",
+      "userName": "karan",
+      "email": "kp9594464364@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "0bd0",
+      "userName": "karanpatel",
+      "email": "karanpatel@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "de4c",
+      "userName": "ram",
+      "email": "ram@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
